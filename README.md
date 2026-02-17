@@ -54,7 +54,7 @@
 ## 🌐 Connect With Me 
 - **LinkedIn:** www.linkedin.com/in/bhavesh-hatwar-86b208359 
 - **Email:** bhatwar792@gmail.com 
-- **GitHub:** https://github.com/Bhavesh195
+- **GitHub:** https://github.com/Bhatwar195
 
 ---
 
