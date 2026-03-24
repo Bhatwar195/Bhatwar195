@@ -1,7 +1,5 @@
-<h1 align="center">Bhavesh Hatwar</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=0E75B6&center=true&vCenter=true&width=800&lines=Aspiring+Machine+Learning+Engineer;AI+%26+Data+Science+Undergraduate;Python+%26+SQL+Developer;Building+Real-World+Data+Driven+Solutions" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1E3A8A&height=200&section=header&text=Bhavesh%20Hatwar&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <p align="center">
@@ -70,4 +68,8 @@ B.Tech – Artificial Intelligence and Data Science (AI & DS). Focused on Machin
 
 <p align="center">
 If you like my work, consider giving my repositories a star!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1E3A8A&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff"/>
 </p>
