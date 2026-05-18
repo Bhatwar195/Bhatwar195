@@ -54,7 +54,6 @@ B.Tech – Artificial Intelligence and Data Science (AI & DS). Focused on Machin
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhatwar195&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
